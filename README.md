@@ -72,7 +72,6 @@ npm run build-dev
 * To view the APP channel [Click Here](https://www.design-mindfulness.app).
 * To view the DEV channel [Click Here](https://www.design-mindfulness.dev).
 * To view the WWW channel [Click Here](https://www.design-mindfulness.com).
-* To view the MVP (Webflow) [Click Here](https://www.design-mindfulness.com).
 * [Click Here](https://www.design-mindfulness.com/work/next-brand) to learn more about this project.
 
 ## License
