@@ -8,16 +8,16 @@ A Web Application built with Next.js, Firebase, TypeScript & Webflow.
 
 ### 1.1 - Objective
 
-The goal of this project is to quickly gain and demonstrate usable skills with React & TypeScript.
+The goal of this project is to quickly demonstrate hirable skills with modern build tools.
 
 ### 1.2 - Backlog
 
-#### [X] Frontend Development
+#### Frontend Development
 
-* [x] Build out static files (HTML, CSS & JavaScript). [View here](https://design-mindfulness.weblow.io).
-* [ ] Export static website files to GitHub Repo.
+* [x] Build out static files (HTML, CSS & JavaScript).
+* [ ] Export static website files to GitHub Repository.
 
-#### [ ] Backend Development
+#### Backend Development
 
 * [x] Setup VM, Network & Ubuntu 18.04 Pro LTS.
 * [x] Server Administration (update, hostname, git, nvm etc.)
@@ -27,18 +27,18 @@ The goal of this project is to quickly gain and demonstrate usable skills with R
 
 ### 1.3 - Tools & Environment
 
-#### [x] Cloud
+#### Cloud
 
 * [x] [Google](https://cloud.google.com/about/locations#europe), [Cloud DNS](https://cloud.google.com/dns#section-5), [N2 (Virtual Machine)](https://cloud.google.com/compute/docs/machine-types#n2_machine_types).
 * [x] [Ubuntu 18.04 Pro LTS (Server OS)](https://cloud.google.com/blog/products/compute/ubuntu-pro-available-on-google-cloud).
 * [x] [Plesk WHM (Server GUI & Sys-Admin)](https://www.plesk.com/blog/various/install-plesk-linux/#cli).
 
-#### [ ] Local
+#### Local
 
 * [x] [Git](https://git-scm.com/), [GitHub Desktop](https://desktop.github.com/), [VS Code](https://code.visualstudio.com/),
 * [ ] [WSL 1 to WSL 2](https://docs.microsoft.com/en-gb/windows/wsl/compare-versions)
 
-#### [ ] Build
+#### Build
 
 * [x] [Cloud Shell](https://shell.cloud.google.com/) - Remote SSH.
 * [ ] [Node.js](https://nodejs.org/) (nvm, npm, express, ) - Build Tools.
@@ -69,8 +69,10 @@ npm run build-dev
 
 ### 2.2 - Live Demo
 
-* [Click Here](https://www.design-mindfulness.app) to use this Web Application.
-
+* To view the APP channel [Click Here](https://www.design-mindfulness.app).
+* To view the DEV channel [Click Here](https://www.design-mindfulness.dev).
+* To view the WWW channel [Click Here](https://www.design-mindfulness.com).
+* To view the MVP (Webflow) [Click Here](https://www.design-mindfulness.com).
 * [Click Here](https://www.design-mindfulness.com/work/next-brand) to learn more about this project.
 
 ## License
